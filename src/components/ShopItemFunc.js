@@ -25,6 +25,6 @@ ShopItemFunc.propTypes = {
   description: propTypes.string.isRequired,
   descriptionFull: propTypes.string.isRequired,
   currency: propTypes.string.isRequired,
-  price: propTypes.string.isRequired,
+  price: propTypes.number.isRequired,
 }
 export default ShopItemFunc;

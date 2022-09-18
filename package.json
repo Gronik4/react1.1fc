@@ -18,6 +18,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gronik4/react1.1fc.git"
+  },
+  "author": "Gronik4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gronik4/react1.1fc/issues"
+  },
+  "homepage": "https://github.com/Gronik4/react1.1fc#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
